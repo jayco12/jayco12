@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayco12
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m a Flutter developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (you can reach me on my email (Oduyebojod@gmail.com))
 
