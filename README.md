@@ -12,3 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayco12)](https://github.com/jayco12/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayco12)](https://github.com/jayco12/github-readme-stats)
