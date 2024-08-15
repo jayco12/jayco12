@@ -1,18 +1,30 @@
-👋 Hi, I'm Joseph Oduyebo (@jayco12)
+👋 Hi, I'm Joseph Oduyebo 
+
 👀 Software Engineer | Innovator
+
 🌱 Flutter Developer | Robotics Enthusiast
+
 💬 Driven by problem-solving and creativity, I specialize in building impactful software solutions.
+
 💡 Passionate about bridging gaps in STEM, with a focus on racial equity.
+
 💻 Currently working on the GrindBuddy app, leveraging AI to enhance study collaborations.
 
-🔭 What I'm Working On
+🔭 What I'm Working On:
+
 GrindBuddy App: Connecting students with compatible study partners using AI.
+
 Flutter Projects: Building mobile apps with clean architecture and beautiful UI.
 🤝 Let's Collaborate On
-Educational Technology: Tools that enhance learning experiences.
+
+Augmented reality Technology: Tools that enhance virtual experiences.
+
 Robotics and AI: Projects that push the boundaries of innovation.
+
 📫 How to Reach Me
+
 Email: Oduyebojod@gmail.com
+
 LinkedIn: <a href="https://www.linkedin.com/in/joseph-oduyebo/">Connect with me</a>
 
 <!---
